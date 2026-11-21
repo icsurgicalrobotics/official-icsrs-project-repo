@@ -1,5 +1,7 @@
 # Official ICSRS Project Repository
 
+<img src="docs/images/icsrs-logo.png" alt="Imperial College London Surgical Robotics Society logo" width="200">
+
 The Imperial College London Surgical Robotics Society (ICSRS) is developing a force-aware continuum endoscope. The project brings together mechanical design, electronics, controls and software to build a tendon-driven endoscope with low-cost force sensing.
 
 ## Current milestone
